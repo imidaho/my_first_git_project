@@ -1,3 +1,3 @@
 This is my first project
 
-this is helping me understand git
+this is TOTALLY helping me understand git
